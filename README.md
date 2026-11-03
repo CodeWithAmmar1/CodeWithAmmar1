@@ -1,4 +1,8 @@
 # Hello, I'm Ali Ammar 👋🏻
+<p align="center">
+ <img src="https://cdn.jsdelivr.net/gh/ViratiAkiraNandhanReddy/pixel-art-readme-gifs@v1/gifs/hrzn/9586c6fa-686c-4f87-9b1f-132b46322499.gif" width="100%" alt="pixel-art-readme-gifs">
+</p>
+
 
 # 💫 About Me:
 🔭 I’m currently working on **Data Analysis dashboards and scalable Flutter mobile solutions**<br>👯 I’m looking to collaborate on **Open-source mobile apps, data science projects, and BI tools**<br>🤝 I’m looking for help with **Advanced Machine Learning model optimization and MLOps**<br>🌱 I’m currently learning **Advanced Power BI (DAX), SQL optimization, and Data Engineering**<br>💬 Ask me about **Flutter, Dart, State Management, Data Cleaning, and EDA (Python/Pandas)**<br>⚡ Fun fact **I've led mobile app teams and automated end-to-end app development lifecycles!**
